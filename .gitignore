@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Flask
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ambiente virtual Python
+venv/
+env/
+.env
+
+# Diretórios e arquivos de build
+build/
+dist/
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.swp
+*.swo
+*.tmp
+
+# Arquivos de logs
+*.log
+
+# Outros arquivos e diretórios temporários
+*.pid
+*.seed
+*.pid.lock
+
+# Diretório do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de cache
+.cache/
+
